@@ -1,3 +1,3 @@
-
+#WELLNEST
 This project is an **automated health monitoring system** designed to assist users in managing their well-being efficiently and securely. The system can **track and log symptoms**, and based on the severity, it either suggests **quick home remedies** for minor issues or escalates the case to a **virtual doctor consultation**. All **health records and medical documents are securely stored with end-to-end encryption**, ensuring privacy and data protection. The platform includes a **24/7 chatbot-based consultation service**, offering constant access to health support. Additionally, it implements robust **security checks** to safeguard user information and system integrity. This solution aims to provide a seamless, intelligent, and secure health companion for everyday use.
 
