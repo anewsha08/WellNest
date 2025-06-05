@@ -1,2 +1,2 @@
 # WellNest
-An for tracking and monitoring helth
+An for tracking and monitoring health
